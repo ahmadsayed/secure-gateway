@@ -36,7 +36,7 @@ mongo-local-ibm-mongodb-dev   ClusterIP   10.0.0.173   <none>        27017/TCP  
 
 On the secure gateway for destination will use the service name **mongo-local-ibm-mongodb-dev** and port **27017**
 
-![alt-secure-gateway-add-destination](https://raw.githubusercontent.com/ahmadsayed/secure-gateway/master/docs/adding-destination.png)
+![alt secure-gateway-add-destination](https://raw.githubusercontent.com/ahmadsayed/secure-gateway/master/docs/adding-destination.png)
 
 Now the connection should be established 
 
@@ -44,4 +44,6 @@ Extract the destination Host and Port from secure gateway service
 
 ![alt extract host & port] (https://raw.githubusercontent.com/ahmadsayed/secure-gateway/master/docs/gethostandport.png)
 
-The connection on the attached sheet used in Node-red Cloudfoundry app to update the mongodb
+The connection on the attached sheet used in Node-red Cloudfoundry app to update the mongodb on local ICP installation not accessible for internet 
+
+![alt Quick Demo] https://github.com/ahmadsayed/secure-gateway/blob/master/docs/full-demo.gif
