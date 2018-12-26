@@ -42,8 +42,8 @@ Now the connection should be established
 
 Extract the destination Host and Port from secure gateway service
 
-![alt extract host & port] (https://raw.githubusercontent.com/ahmadsayed/secure-gateway/master/docs/gethostandport.png)
+![alt get host and port](https://raw.githubusercontent.com/ahmadsayed/secure-gateway/master/docs/gethostandport.png)
 
 The connection on the attached sheet used in Node-red Cloudfoundry app to update the mongodb on local ICP installation not accessible for internet 
 
-![alt Quick Demo] https://github.com/ahmadsayed/secure-gateway/blob/master/docs/full-demo.gif
+![alt Quick Demo](https://github.com/ahmadsayed/secure-gateway/blob/master/docs/full-demo.gif)
