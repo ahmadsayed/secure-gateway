@@ -13,7 +13,7 @@ This project is helm chart to deploy secure-gateway client on IBM Cloud private 
 
 https://console.bluemix.net/catalog/services/secure-gateway
 
-![alt secure-gateway-id](https://https://raw.githubusercontent.com/ahmadsayed/secure-gateway/master/docs/securegatewayid.png)
+![alt secure-gateway-id](https://raw.githubusercontent.com/ahmadsayed/secure-gateway/master/docs/securegatewayid.png)
 
 update values.yaml for helm chart, with the values extracted from secure gateway services
 
