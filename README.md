@@ -19,7 +19,7 @@ update values.yaml for helm chart, with the values extracted from secure gateway
 
 ```
 gatewayID: <gateway id>
-token: <toke>
+token: <jwt toke>
 ```
 #### Connecting to the destination
 
