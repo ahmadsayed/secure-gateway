@@ -12,8 +12,8 @@ image:
 nameOverride: ""
 fullnameOverride: ""
 
-gatewayID: n2zvu2yezd8_prod_ng
-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb25maWd1cmF0aW9uX2lkIjoibjJ6dnUyeWV6ZDhfcHJvZF9uZyIsInJlZ2lvbiI6InVzLXNvdXRoIiwiaWF0IjoxNTQ1ODI1MjIxLCJleHAiOjE1NTM2MDEyMjF9.TbJJlUMTtfXQaOFb58dvFWgWQs5VaTtKjnyDGleyIb0  
+gatewayID: <gateway-id>
+token: <jwt-token>
 
 resources: {}
   # We usually recommend not to specify default resources and to leave this as a conscious
